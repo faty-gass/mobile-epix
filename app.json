@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "e-pix",
+    "slug": "e-pix",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash_orange.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#212b44"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "scheme": "epix.app"
+  }
+}
